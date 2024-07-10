@@ -4,7 +4,7 @@
 The Capstone Project seeks to revolutionize SuperCenter, a top-tier supermarket chain renowned for its selection of organic products, by implementing advanced, data-driven recommendation systems. This initiative addresses pressing business challenges and significantly elevates the customer shopping experience.
 
 # Business Challenges and Strategic Goals
-SuperCenter struggles with several critical issues, including improving customer satisfaction, streamlining product discovery, and amplifying customer awareness of product variety. The strategic aim is to deploy advanced analytical tools to refine product recommendations and optimize search functionalities, positively influencing customer engagement and retention.
+SuperCenter struggles with several critical issues, including improving customer satisfaction, streamlining product discovery, and amplifying customer awareness of product variety. The strategic aim is to deploy AI and advanced analytical tools to refine product recommendations and optimize search functionalities, positively influencing customer engagement and retention.
 
 # Solutions and Implementation
 The project introduces two innovative solutions utilizing the same technology stack, specifically leveraging generative AI and embeddings for recommendation systems. This two-fold approach means that developing the first solution accelerates and simplifies the development of the second, as both share common preprocessing steps.
